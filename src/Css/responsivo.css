@@ -8,6 +8,6 @@
     .anuncio{
         flex-direction: column;
         width: 350px;
+        height: 650px;
     }
-    
 }
